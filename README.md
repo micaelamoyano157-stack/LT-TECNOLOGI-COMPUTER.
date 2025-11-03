@@ -155,8 +155,8 @@
        <article class="card"><div class="icon">🎮</div><div class="meta"><div class="title">Cooler Master</div><div class="desc">🧊 Hardware, periféricos y accesorios para gamers exigentes.</div></div><a class="btn" href="https://www.coolermaster.com/" target="_blank">Ir</a></article>
        <article class="card"><div class="icon">🎮</div><div class="meta"><div class="title">ASUS ROG</div><div class="desc">💻 Línea gamer de ASUS con notebooks, componentes y accesorios RGB.</div></div><a class="btn" href="https://rog.asus.com/" target="_blank">Ir</a></article>
        <article class="card"><div class="icon">🎮</div><div class="meta"><div class="title">MSI Gaming</div><div class="desc">🔥 Laptops, PCs, placas de video y monitores para jugadores exigentes.</div></div><a class="btn" href="https://www.msi.com/" target="_blank">Ir</a></article>
-        </section>
-        </section>
+     </section>
+
 
   <section id="contact" class="contact-panel">
       <h3 style="font-family:Orbitron;color:var(--neon)">Contacto</h3>
