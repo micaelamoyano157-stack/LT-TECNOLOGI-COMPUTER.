@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>LT TECNOLOGÍ COMPUTER — Enlaces Gamer</title>
   <meta name="description" content="LT Tecnología Computer - Portal de enlaces gamer, accesorios, ofertas y contacto.">
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
